@@ -10,7 +10,7 @@ AB-506 Compliance Platform, Girl Scouts of Northern California · Co-designed, i
 California's AB-506 requires youth-serving nonprofits to meet new fingerprinting, background-check, and training requirements. I helped create the system and process for tracking who has completed fingerprinting and training, helped design the website that supports it, coordinated directly with the California DOJ and applicant services, and ran mass fingerprinting events. In active use by GSNorCal to maintain compliance.
 
 NFT Watch DAO · Led the effort, deployed
-A platform that helps prevent digital asset fraud using communal intelligence and smart contracts built on-chain, serving the XPR community. I spearheaded the effort and led the team; I directed the project rather than writing the code myself (this predates current AI coding tools). Built and deployed, in use by the community.
+a platform that helps prevent digital asset fraud using communal intelligence and smart contracts built on-chain, serving the XPR community. I spearheaded the effort and led the team; I directed the project rather than writing the code myself (this predates current AI coding tools). Built and deployed, in use by the community.
 
 How I work; Domain first. I come from compliance, not from a CS background. The advantage is that I build tools that reflect how the work actually happens, not how someone imagines it happens.
 Deterministic where it counts. When something needs to be consistent and correct, it should be enforced by code, not hoped for. I use probabilistic tools where they genuinely help and constrain them everywhere else.
