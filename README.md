@@ -13,7 +13,7 @@ California's AB-506 requires youth-serving nonprofits to meet new fingerprinting
 NFT Watch DAO · Led the effort, deployed
 a platform that helps prevent digital asset fraud using communal intelligence and smart contracts built on-chain, serving the XPR community. I spearheaded the effort and led the team; I directed the project rather than writing the code myself (this predates current AI coding tools). Built and deployed, in use by the community.
 
-**How I work;**  
+**How I work:**  
 Domain first. I come from compliance, not from a CS background. The advantage is that I build tools that reflect how the work actually happens, not how someone imagines it happens.
 Deterministic where it counts. I use probabilistic tools where they genuinely help and constrain them everywhere else.
 Human always in the loop. The tools I build produce drafts and surface findings. People make the decisions. The goal is to remove the busywork, not the judgment.
