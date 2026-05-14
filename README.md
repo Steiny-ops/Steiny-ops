@@ -1,4 +1,4 @@
-Hi, I'm Spencer 👋
+Hi, I'm Spencer🌲🍄
 
 Compliance professional and self-taught developer. I build systems that solve real regulatory and trust problems for the communities and organizations that have them.
 Most of my work starts the same way: a real compliance or trust problem that doesn't have a good tool yet, and an organization that needs one. I tend to end up designing the system, the process, and the software together, because in compliance work they're usually the same problem.
