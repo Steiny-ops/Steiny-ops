@@ -14,7 +14,7 @@ a platform that helps prevent digital asset fraud using communal intelligence an
 
 How I work; Domain first. I come from compliance, not from a CS background. The advantage is that I build tools that reflect how the work actually happens, not how someone imagines it happens.
 Deterministic where it counts. I use probabilistic tools where they genuinely help and constrain them everywhere else.
-Human in the loop. The tools I build produce drafts and surface findings. People make the decisions. The goal is to remove the busywork, not the judgment.
+Human always in the loop. The tools I build produce drafts and surface findings. People make the decisions. The goal is to remove the busywork, not the judgment.
 Honest about limitations. Every tool I've worked on has known edge cases and a documented list of what it doesn't do well yet. That's a feature.
 
 Contact
