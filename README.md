@@ -4,11 +4,11 @@ I work in compliance and I build the tools the work needs when they don't exist 
 
 Things I've built or worked on:
 
-**IRB Coordinator Assistant: A review-automation system for a university IRB office:** AI-assisted but the model is one component in a pipeline — rule-based checks and human review surround it, rather than the model running the show. Coordinator-voiced drafts go to a human for review every time. It's in daily production use; per-application coordinator time dropped about two-thirds, and researcher turnaround went from roughly a week to same-day. I'm the sole architect and maintainer. Private repo, institution-specific.
+**IRB Coordinator Assistant: A review-automation system for a university IRB office:** AI-assisted but the model is one component in a pipeline, rule-based checks and human review surround it, rather than the model running the show. Coordinator-voiced drafts go to a human for review every time. It's in daily production use; per-application coordinator time dropped about two-thirds, and researcher turnaround went from roughly a week to same-day. I'm the sole architect and maintainer. Private repo, institution-specific.
 
 **AB-506 Compliance Platform at Girl Scouts of Northern California:** California's AB-506 added fingerprinting, background-check, and training requirements for youth-serving nonprofits. I helped design the tracking system and the website behind it, coordinated with the California DOJ and applicant services, and ran the mass fingerprinting events. It's in active use to keep GSNorCal compliant.
 
-**NFT Watch DAO:** A fraud-prevention platform built on-chain for the XPR community, using communal intelligence and smart contracts. I led the effort and directed the team rather than writing the code — this predates the current generation of AI coding tools. It's deployed and in use.
+**NFT Watch DAO:** A fraud-prevention platform built on-chain for the XPR community, using communal intelligence and smart contracts. I led the effort and directed the team rather than writing the code, this predates the current generation of AI coding tools. It's deployed and in use.
 
 How I think about this work: I build tools that fit how the work actually happens, not how someone imagines it happens. I use probabilistic tools where they genuinely help and keep them constrained everywhere else. The tools produce drafts; people make the decisions. And every tool I've worked on has a documented list of what it doesn't do well yet, because pretending otherwise is the fastest way to lose people's trust.
 If you have a compliance or trust problem that doesn't have a good tool yet, I'm interested.
