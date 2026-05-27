@@ -1,6 +1,7 @@
 Hi, I'm Spencer 🌲🍄
 
 I work in compliance and I build the tools the work needs when they don't exist yet. Self-taught developer, domain background in regulatory and trust work. Most of my projects start with someone asking "is there a tool that does X" and the answer being no, so I end up designing the process, the system, and the software at the same time. In compliance that's usually the only way it works.
+
 Things I've built or worked on:
 
 IRB Coordinator Assistant. A review-automation system for a university IRB office. AI-assisted but the model is one component in a pipeline — rule-based checks and human review surround it, rather than the model running the show. Coordinator-voiced drafts go to a human for review every time. It's in daily production use; per-application coordinator time dropped about two-thirds, and researcher turnaround went from roughly a week to same-day. I'm the sole architect and maintainer. Private repo, institution-specific.
